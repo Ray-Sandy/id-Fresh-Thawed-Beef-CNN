@@ -10,7 +10,7 @@ The dataset used in CNN_Model_Beef comes from Mendeley data:
 - Images of fresh and non-fresh beef meat samples (augmented from 64 images to 1600 images for Thawed data)
   - https://data.mendeley.com/datasets/wvhkpppddp/1
 
-The dataset used in CNN_Model_Beef comes from Mendeley and keggle data:
+The dataset used in CNN_Model_keggle comes from Mendeley and keggle data:
 - LOCBEEF: Beef Quality Image dataset for Deep Learning Models (only take image data labeled fresh and cropped as Fresh data)
   - https://data.mendeley.com/datasets/nhs6mjg6yy/1
 
